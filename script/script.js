@@ -1,6 +1,5 @@
 
 var numeroSecreto = parseInt(Math.random () *10)
-alert (numeroSecreto)
 
 var tentativas = 3
 
